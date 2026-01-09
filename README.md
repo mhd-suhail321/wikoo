@@ -12,9 +12,6 @@ Wikoo listens to how you're feeling, understands your mood, and gives gentle, pe
 - Download report as PDF
 - Calm and caring design
 
-### 🚀 Live Demo
-[https://wikoo.vercel.app](https://wikoo.vercel.app) *(Replace with your actual link after deployment)*
-
 ### 🛠 Built With
 - React + Vite
 - Tailwind CSS
