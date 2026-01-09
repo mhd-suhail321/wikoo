@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+openai  # for Groq
+python-dotenv
+google-cloud-storage  # for Cloud Storage
